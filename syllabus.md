@@ -39,8 +39,8 @@ None!
 
 ## VI. Recommended Books
 
-* [*iOS Programming: The Big Nerd Ranch Guide* (6th Edition) by Christian Keur and Aaron Hillegass](https://www.bignerdranch.com/books/ios-programming/)
-* [*Programming iOS 12 - Dive Deep into Views, View Controllers, and Frameworks* by Matt Neuburg](http://shop.oreilly.com/product/0636920208662.do)
+* [*iOS Programming: The Big Nerd Ranch Guide* (6th Edition)](https://www.bignerdranch.com/books/ios-programming/) by Christian Keur and Aaron Hillegass
+* [*Programming iOS 12 - Dive Deep into Views, View Controllers, and Frameworks*](http://shop.oreilly.com/product/0636920208662.do) by Matt Neuburg
 
 ## VII. Online Resources 
 
