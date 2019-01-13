@@ -4,12 +4,12 @@
 ## Contents
 
 - [Week 01 (Jan 14) : Swift 4, Xcode Basics, Animation](#week1)
-- [Week 02 (Jan 21) : Intro to Canvas Drawing API & Affine Transforms](#week2)
-- [Week 03 (Jan 28) : More Canvas & Drawing Images & Blending Modes](#week3)
-- [Week 04 (Feb 04) : WebAudio API & Manipulating Bitmap data](#week4)
-- [Week 05 (Feb 11) : Working on Audio Visualizer](#week5)
-- [Week 06 (Feb 18) : JavaScript Revealing Module Pattern & AV Project Due](#week6)
-- [Week 07 (Feb 25) : ES6 Classes/Code Modules & October Break](#week7)
+- [Week 02 (Jan 21) : Storyboard, Outlets, and Actions](#week2)
+- [Week 03 (Jan 28) : Auto Layout and Data Structures](#week3)
+- [Week 04 (Feb 04) : Classes, UIPicker](#week4)
+- [Week 05 (Feb 11) : MVC / MVVM, Table Views, Navigation Controller, Core Location, Multiple Screens](#week5)
+- [Week 06 (Feb 18) : Design Patterns](#week6)
+- [Week 07 (Feb 25) : Apple Watch](#week7)
 - [Week 08 (Mar 04) : Catchup, Review & Midterm Exam](#week8)
 - ***Spring Break  3/10-3/17***
 - [Week 09 (Mar 18) : TBA](#week9)
@@ -22,31 +22,41 @@
 
 
 ## <a id="week1">Week 1 : Swift 4, Xcode Basics, Animation
-  - [Week 1A - Course Introduction](weekly/week-01A-notes.md)
-  - [Week 1B - Canvas Demo](weekly/week-01B-notes.md)
+* Swift language tour
+  * https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/GuidedTour.html
+	* https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/GuidedTour.playground.zip
+	* Hello RIT (labels and views)
+	* Resources
+	  * View Programming Guide
+		* ViewController Programming Guide
   
-## <a id="week2">Week 2 : Intro to Canvas Drawing API & Transforms
-  - [Week 2A - JS Review and more Canvas](weekly/week-02A-notes.md)
-  - [Week 2B - Canvas Affine Transformations](weekly/week-02B-notes.md)
+## <a id="week2">Week 2 : Storyboard, Outlets, and Actions
+* UI Design
+  * iOS Human Interface Guide: HIG
   
-## <a id="week3">Week 3 : More Canvas & Manipulating Bitmap data
-  - [Week 3A - Review Recent HW & Build a Paint App](weekly/week-03A-notes.md)
-  - [Week 3B - Canvas Images & Blending Modes](weekly/week-03B-notes.md)
+## <a id="week3">Week 3 : Auto Layout and Data Structures
+* Project 1: Word Magnets
+	* A: Auto Layout
+	* B: Data Structures and TDD
  
-## <a id="week4">Week 4 : WebAudio API
-  - [Week 4A - Web Audio API](weekly/week-04A-notes.md)
-  - [Week 4B - Canvas Bitmap Effects](weekly/week-04B-notes.md)
+## <a id="week4">Week 4 : Classes, UIPicker
+* Project 1: Checkpoint 1
+	* A: Classes	
+	* B: Auto Layout  
  
-## <a id="week5">Week 5 : Working on Audio Visualizer Project
-  - [Week 5A - Tuning up our Audio Visualizers](weekly/week-05A-notes.md)
-  - [Week 5B - Looking at Audio Visualizer Prototypes](weekly/week-05B-notes.md)
+## <a id="week5">Week 5 : MVC / MVVM, Table Views, Navigation Controller, Core Location, Multiple Screens
+* Project 1: Checkpoint 2
+	* A: MVC / MVVM
+	* B: 
+	* Supplemental: https://herbertograca.com/2017/08/17/mvc-and-its-variants/  
  
-## <a id="week6">Week 6 : JavaScript Revealing Module Pattern & AV Project Due
-  - [Week 6A - JavaScript Revealing Module Pattern](weekly/week-06A-notes.md)
-  - [Week 6B - Audio Visualizer Projects Due](weekly/week-06B-notes.md)
+## <a id="week6">Week 6 : Design Patterns
+* Project 1 Due
+	* A: Design Patterns (Singleton and Dependency Injection)
+	* B: NSUserDefaults, UIActivityViewController, Image Saving, and UIImagePickerController 
  
-## <a id="week7">Week 7 : ES6 Classes/Code Modules
-  - [Week 7 - Intro to ES6 Classes and Modules](weekly/week-07-notes.md)
+## <a id="week7">Week 7 : Apple Watch
+
  
 ## <a id="week8">Week 8 : Catchup & Midterm Exam
   
