@@ -12,11 +12,11 @@
 - [Week 07 (Feb 25) : ES6 Classes/Code Modules & October Break](#week7)
 - [Week 08 (Mar 04) : Catchup, Review & Midterm Exam](#week8)
 - ***Spring Break  3/10-3/17***
-- [Week 09 (Mar 18) : ES6 Modules and Transpiling](#week9)
-- [Week 10 (Mar 25) : Catch up & Work on Project 2](#week10)
-- [Week 11 (Apr 01) : Web Services](#week11)
-- [Week 12 (Apr 08) : Vue.js & MVVM](#week12)
-- [Week 13 (Apr 15) : Cloud Data & JavaScript Topics](#week13)
+- [Week 09 (Mar 18) : TBA](#week9)
+- [Week 10 (Mar 25) : TBA](#week10)
+- [Week 11 (Apr 01) : TBA](#week11)
+- [Week 12 (Apr 08) : TBA](#week12)
+- [Week 13 (Apr 15) : TBA](#week13)
 - [Week 14 (Apr 22) : Review & Final Exam](#week14)
 - [Finals Week Meeting](#finalsweek)
 
@@ -49,31 +49,25 @@
   - [Week 7 - Intro to ES6 Classes and Modules](weekly/week-07-notes.md)
  
 ## <a id="week8">Week 8 : Catchup & Midterm Exam
-  - [Week 8 - More ES6 Classes and Modules](weekly/week-08A-notes.md)
-  - [Week 8 - Midterm Exam](weekly/week-08B-notes.md)
   
-## <a id="week9">Week 9 :  ES6 Modules & Transpiling
-  - [Week 9 - ES6 Modules](weekly/week-09A-notes.md)
-  - [Week 9 - Transpiling ES6>ES5](weekly/week-09B-notes.md) 
   
-## <a id="week10">Week 10 : Catch up & Work on Project 2
-   - [Week 10A - ES6 Objects Review](weekly/week-10A-notes.md)
+## <a id="week9">Week 9 :  TBA
+
   
-## <a id="week11">Week 11  : Web Services
-   - [Week 11A - Intro to Web Services](weekly/week-11A-notes.md)
-   - [Week 11B - More About Web Services](weekly/week-11B-notes.md)
+## <a id="week10">Week 10 : TBA
+
   
-## <a id="week12">Week 12  : Vue.js & MVVM
-  - [Week 12A - Intro to Vue.js](weekly/week-12A-notes.md)
-  - [Week 12B - More Vue.js](weekly/week-12B-notes.md)
+## <a id="week11">Week 11  : TBA
+
   
-## <a id="week13">Week 13 : Cloud Data & JavaScript Topics
-  - [Week 13A - Cloud Data](weekly/week-13A-notes.md)
-  - [Week 13B - JavaScript Topics](weekly/week-13B-notes.md)
+## <a id="week12">Week 12  : TBA
+
+  
+## <a id="week13">Week 13 : TBA
+
  
 ## <a id="week14">Week 14 : Review & Final Exam
-  - [Week 14A - TBA](weekly/week-14A-notes.md)
-  - [Week 14B - Final Written Exam](weekly/week-14B-notes.md)
+ 
   
 ## <a id="finalsweek">Finals Week Meeting
   - All sections will have already taken the final written exam on the last day of class, and will be meeting finals week to present final projects. Check SIS for your section's meeting time and location
