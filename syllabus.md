@@ -18,7 +18,14 @@
 - Class meetings: TR 3:30PM - 4:45PM in GOL-3510
 
 
+## IV. Course Goal & Outcomes
 
+### Projects
+- Magnetic Poetry App
+- Apple Watch App
+- Awesome App of your choosing
+
+### Topics
 
 ## IV. Code Style
 
@@ -32,14 +39,8 @@ None!
 
 ## VI. Recommended Books
 
-* Swift programming : the Big Nerd Ranch guide / Matthew Mathias & John Gallagher 
-Atlanta, GA : Big Nerd Ranch, [2016] 
-	* Note: Current version is Swift 3/iOS 10
-* iOS programming : the Big Nerd Ranch guide. Sixth edition
-Atlanta, GA : Big Nerd Ranch, [2016] 
-	* Note: Current version is Swift 3/iOS 10
-* iOS 11 programming fundamentals with Swift : Swift, Xcode, and Cocoa basics / Matt Neuburg 
-Beijing, [China] : O'Reilly, 2018 
+* [*iOS Programming: The Big Nerd Ranch Guide* (6th Edition) by Christian Keur and Aaron Hillegass](https://www.bignerdranch.com/books/ios-programming/)
+* [*Programming iOS 12 - Dive Deep into Views, View Controllers, and Frameworks* by Matt Neuburg](http://shop.oreilly.com/product/0636920208662.do)
 
 ## VII. Online Resources 
 
@@ -100,19 +101,11 @@ Many of you already have access to an iOS device. For the others we have a selec
 
 * You may wish to install Xcode on your own Apple computer. A newer Mac is required to run Xcode 10.1.
 
-## XI. Course Goals and Outcomes
-
-* Become a junior iOS app developer
-* Create a online app portfolio to show employers
-* Learn job ready best practices
-* [Additional topics](http://igm.rit.edu/~acjvks/courses/2017-spring/340/topics.html)
-
-## XII. Attendance ##
+## XI. Attendance
 
 Attendance is mandatory and you are expected to be on time. Lectures will start promptly at the beginning of class, and will be followed by an in-class assignment or exercise that you are expected to work on until the end of the meeting (i.e. no leaving early).
 
-## XIII. Classroom Behavior ##
-
+### Classroom Behavior
 
 **You should not be talking to another student while the instructor is speaking. Doing so means that:**
 
@@ -135,7 +128,7 @@ If you are easily distracted by background noise, you may wish to bring headphon
 * If your computer screen is visible to the hallway, your behavior is broadcast to a broader audience (students, faculty, administrators, visiting parents, ...) and reflects poorly, especially on you.
 * Violations of these classroom behavior policies will be dealt with through deductions in your attendance grade.
 
-**How to succeed in this class**
+## XII. How to succeed in this class
 
 iOS programming can be difficult for newcomers - the new Swift language is an improvement over Objective-C but it's only 2-1/2 years old and has gone though several versions (1.0, 1.1, 1.2, 2.0, 2.1, 2.2, 3.0, 3.1, 4.0), so it still has its quirks. You may have to work harder than you are used to, especially at the beginning.
 
@@ -153,8 +146,7 @@ Apps install faster and run faster on your device than they do on the iOS simula
 
 
 
-## XIV. Grading
-
+## XIII. Grading
 
 Projects: 50%
 Exams: 30%
