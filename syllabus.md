@@ -175,7 +175,7 @@ ANY instance of academic dishonesty (cheating, collusion, or duplicate submissio
 ## XV. Notices of Accommodation
 If you have a "Notice of Accommodation", I should have received a copy electronically. Please discuss this with me after class or during office hours, so that I can make sure all of your accommodations are met.
 
-# XVI. Important RIT Deadlines
+## XVI. Important RIT Deadlines
 - Last day of add/drop is the beginning of week 2.
 - Last day to withdraw with a grade of W is the end of week 12.
 - You have one semester to challenge your grade. After that, grades cannot be challenged (IGM department policy).
