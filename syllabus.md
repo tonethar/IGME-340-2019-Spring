@@ -5,7 +5,7 @@
 *Interactive media applications are no longer restricted to personal computers. They can now be found on many distinct hardware platforms including mobile, tablet, wearable, and large-screened computing devices. In this course, students will learn to design, prototype and develop media rich interactive experiences that can be deployed to a wide variety of hardware devices. Individual and group programming projects will be required. 3 Credits*
 
 ## II. Prerequisites
-**IGME-201 or IGME-106 or equivalent course**
+IGME-201 or IGME-106 or equivalent course
 
 ## III. Instructor and Class Details 
 
@@ -26,6 +26,10 @@
 - Awesome App of your choosing
 
 ### Topics
+- Prototyping
+- Tools & Languages
+- Debugging
+- Design Patterns
 
 ### Code Style
 
