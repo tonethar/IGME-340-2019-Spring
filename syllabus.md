@@ -27,7 +27,7 @@
 
 ### Topics
 
-## IV. Code Style
+### Code Style
 
 * [Swift Code Style](https://github.com/raywenderlich/swift-style-guide)
 * [API Guidelines - Swift Naming Conventions](https://swift.org/documentation/api-design-guidelines/)
@@ -69,27 +69,17 @@ None!
 ### Unit Testing
 - [Bowling Game Kata](https://qualitycoding.org/tdd-kata/)
 
-## Computer Accounts
+
+
+## VIII. Computer Accounts
 You don't need an account to login in to the classroom Macs.
 
 All of these Macs are on "deep freeze" which means when you restart the machine every change you made or file you saved is wiped out. Always restart the machine (rather than logout) when you are done for the day. So bring a USB drive to class, or save your files to the cloud before you leave.
 
 If you have a problem using any of the Macs, please bring it to my attention.
 
-## VIII. Software
-Xcode 9.2, iOS Simulator, and Instruments. All are available for free for registered developers from developer.apple.com. You will receive an invite from me to join the Apple Developer Education program.
-
-Your text editor of choice to author HTML documents for project proposals
-
-Your FTP client of choice to transfer files to banjo.
-
-Your image editor of choice to optimize digital images for both the web and iOS apps.
-
-iOS 11.X - it runs on iPhone 5+, iPad 4 (Retina)+, and iPod Touch 6th Generation (the latest iteration)
-
-## IX. Hardware
-iOS Hardware
-Many of you already have access to an iOS device. For the others we have a selection of iOS devices (iPad Mini/iPad Air) to loan out.
+## IX. iOS Hardware
+Many of you already have access to an iOS device. For the others we have a selection of iOS devices (iPad Airs and Apple Watches) to loan out.
 
 1. **Important - bring your iOS device and cable to class every day**
 2. Bring headphones to listen to tutorial videos or tune out distractions 
@@ -98,8 +88,7 @@ Many of you already have access to an iOS device. For the others we have a selec
 
 - 10 IST Macs are available in the IST Open Lab GOL-2670 - they are currently running Xcode 10.1
 - Wallace Library has iMacs for use, and Mac laptops to sign out - they are currently running Xcode ??
-
-* You may wish to install Xcode on your own Apple computer. A newer Mac is required to run Xcode 10.1.
+- You may wish to install Xcode on your own Apple computer. A newer Mac is required to run Xcode 10.1.
 
 ## XI. Attendance
 
