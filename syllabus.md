@@ -141,10 +141,10 @@ Apps install faster and run faster on your device than they do on the iOS simula
 
 ## XIII. Grading
 
-Projects: 50%
-Exams: 30%
-HW: 15%
-Attendance: 5%
+- Projects: 50%
+- Exams: 30%
+- HW: 15%
+- Attendance: 5%
 
 Final course grades are determined using the following scale: 
 
