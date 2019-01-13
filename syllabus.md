@@ -15,7 +15,7 @@ IGME-201 or IGME-106 or equivalent course
 - Office:  GOL-2139 (IGM Main Office)
 - Email: tony@mail.rit.edu
 - Office hours: TBA
-- Class meetings: TR 3:30PM - 4:45PM in GOL-3510
+- Class meetings: TR 5:00PM - 6:15PM in GOL-3510
 
 
 ## IV. Course Goal & Outcomes
