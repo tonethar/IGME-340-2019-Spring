@@ -1,4 +1,4 @@
-Course Outline by Topic
+# Course Outline by Topic
 - Tools
   - Xcode
   - Playgrounds
@@ -15,54 +15,55 @@ Course Outline by Topic
  - Unit Testing
  - *UI Testing*
 - Swift Language Features and Concepts
-Immutability
-Type Inference
-Type Safety
-upcasts and downcasts
-Optionals
-guard
-Do/Try/Catch
-Designated Initializers and Convenience Initializers
-Software Design Patterns
-Target-Action
-MVC
-Notifications
-Delegation and Protocols (Dynamic Dispatch)
-Inheritance
-Composition
-Separation of Concern
-Singleton
-Mobile App Design
-Prototyping
-Application Definition Statement
-Navigation
-Navigation Controllers - "Drill Down" with Detail Views
-Tab Bar
-iPad Split View
-Foundation Classes
-NSString & NSMutableString
-NSArray & NSMutableArray
-NSDictionary & NSMutableDictionary
-NSData
-NSDate
-Cocoa Touch
-Application Delegate & Lifecycle
-Pausing
-Saving State in NSUserDefaults
-UIView and its subclasses
-Other iOS Frameworks
-AVFoundation
-Core Location
-Maps
-CoreGraphics
-SpiteKit or WatchKit
-Profiling with Instruments
-Core Animation Tool
-Leaks Tool
-Case Studies
-CountR & Technobabble Generator & Tip Calculator
-Concepts explored:
-Storyboards
+  - Immutability
+  - Type Inference
+  - Type Safety
+  - upcasts and downcasts
+  - Optionals
+  - guard
+  - Do/Try/Catch
+  - Designated Initializers and Convenience Initializers
+- Software Design Patterns
+  - Target-Action
+  - MVC
+  - Dependency Injection
+  - MVVM
+  - Notifications
+  - Delegation and Protocols (Dynamic Dispatch)
+  - Inheritance
+  - Composition
+  - Separation of Concern
+  - Singleton
+- Mobile App Design
+  - Prototyping
+  - Application Definition Statement
+  - Navigation
+    - Navigation Controllers - "Drill Down" with Detail Views
+    - Tab Bar
+    - iPad Split View
+- Foundation Classes
+  - NSString & NSMutableString
+  - NSArray & NSMutableArray
+  - NSDictionary & NSMutableDictionary
+  - NSData
+  - NSDate
+- Cocoa Touch
+  - Application Delegate & Lifecycle
+  - Saving State in NSUserDefaults
+  - UIView and its subclasses
+- Other iOS Frameworks
+  - AVFoundation
+  - Core Location
+  - Maps
+  - CoreGraphics
+  - SpiteKit or WatchKit
+  - Profiling with Instruments
+  - Core Animation Tool
+- Leaks Tool
+- Case Studies
+  - CountR & Technobabble Generator & Tip Calculator
+- Concepts explored:
+- Storyboards
 Target-Action
 View Controllers
 Writing Methods
@@ -84,16 +85,8 @@ Location
 Maps
 Table Views
 Custom Table View Cells
-Drawing App
-Concepts explored:
-Procedural Drawing with CoreGraphics
-Gestures
-Concert App
-Concepts explored:
-Web Services
-Downloading Data from Internet
-Working with JSON
-References and Resources
-Swift Guided Tour
-raywenderlich.com
-http://iosfonts.com
+Drawing App HW - Concepts explored:
+  - Procedural Drawing with CoreGraphics
+  - Gestures
+  - Concert App
+
