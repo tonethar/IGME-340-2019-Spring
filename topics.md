@@ -30,6 +30,7 @@
 - Swift
   - arrays
   - dictionaries
+  - functions
 
 ## All Topics
 - Tools
