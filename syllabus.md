@@ -177,6 +177,6 @@ If you have a "Notice of Accommodation", I should have received a copy electroni
 
 ## XVI. Important RIT Deadlines
 - Last day of add/drop is the beginning of week 2.
-- Last day to withdraw with a grade of W is the end of week 12.
+- Last day to withdraw with a grade of W is the end of week 11.
 - You have one semester to challenge your grade. After that, grades cannot be challenged (IGM department policy).
 - All of the information on this page is subject to change.
