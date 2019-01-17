@@ -1,4 +1,31 @@
-# Course Outline by Topic
+# Course Topics
+
+## Weekly
+
+### Week 1
+
+- Intro to Xcode
+    - playgrounds
+    - navigator area
+    - editor area
+    - utilities area
+    - choosing a simulator
+    - compiling and running
+ - Swift
+   - variables and constants
+   - creating instances
+   - Types: strings, floats, ints
+   - explicit casting v. type interence
+ - Cocoa Touch
+   - UIView, UILabel
+   - coordinate system
+ - Exercises
+   - Hello RIT-1
+   
+
+
+
+## All Topics
 - Tools
   - Xcode
   - Playgrounds
