@@ -12,7 +12,7 @@
     - choosing a simulator
     - compiling and running
  - Swift
-   - variables and constants
+   - variables and constants - `var` / `let`
    - creating instances
    - Types: strings, floats, ints
    - explicit casting v. type interence
