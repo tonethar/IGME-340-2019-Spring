@@ -17,12 +17,13 @@
    - Types: strings, floats, ints
    - explicit casting v. type interence
  - Cocoa Touch
-   - UIView, UILabel
+   - `UIView`, `UILabel`
+   - parent/child - `addSubview()`
    - coordinate system
  - Exercises
    - Hello RIT-1
    
-
+### Week 2
 
 
 ## All Topics
