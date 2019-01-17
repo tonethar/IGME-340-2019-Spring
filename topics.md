@@ -24,7 +24,12 @@
    - Hello RIT-1
    
 ### Week 2
-
+- Storyboard
+  - outlets
+  - actions
+- Swift
+  - arrays
+  - dictionaries
 
 ## All Topics
 - Tools
