@@ -21,16 +21,16 @@
 *Tip: This might be a little tricky for you. Both partners should first attempt to do this by themselves. Ideally if you both get it working, you can submit the "best" solution.*
 			
 - The *Magneto* word magnets are too small, especially the ones with a single character. Solution: Add a space to boths of the ends of each label's text, then center align the text in the label. (*-3% if not done*)
-- The app has a custom App icon - designed and created by you - for all iPad and iPhone sizes. <a href="https://designmodo.com/ios-app-icon-photoshop/">Here is a tutorial on how to create an app icon</a>. If you already have an image file you think could work as your icon (at least 1024x1024 pixels ideally), services like <a href="http://appicon.build">http://appicon.build</a> will generate all of the required icon sizes for you.(<i>-3% if not done</i>)</li>
-			<li>Create a start up screen (on LaunchScreen.storyboard) that has the name of your app and your team members on it. Use an image (drag out a <code>UIImageView</code>), use auto-resizing or auto-layout to position it, and make sure it looks good on both iPhone and iPad. (<i>-3% if not done</i>)</li>
-			<li>BOTH partners bring the app to class installed on their iOS hardware (<i>-3% if not done</i>)</li>
-		</ol>
-	</li>
-	
+- The app has a custom App icon - designed and created by you - for all iPad and iPhone sizes. [Here is a tutorial on how to create an app icon](https://designmodo.com/ios-app-icon-photoshop). If you already have an image file you think could work as your icon (at least 1024x1024 pixels ideally), services like http://appicon.build will generate all of the required icon sizes for you. (*-3% if not done*)
+- Create a start up screen (on LaunchScreen.storyboard) that has the name of your app and your team members on it. Use an image (drag out a `UIImageView`), use auto-resizing or auto-layout to position it, and make sure it looks good on both iPhone and iPad. (*-3% if not done*)
+- BOTH partners bring the app to class installed on their iOS hardware (*-3% if not done*)
+
+<hr><hr>
+
 ### Required App Features for Checkpoint #2 (due Monday night XX/XX)
 ***This is worth 10% of Project 1 grade***
-		<ol>
-			<li>The user can load at least 3 distinct sets of words. (see the <i>Tables I-III Walkthrough</i> for ideas on how to let the user choose something from a list). Because multiple view controllers will depend on the same data, ideally you have 
+
+- The user can load at least 3 distinct sets of words. (see the *Tables I-III Walkthrough* for ideas on how to let the user choose something from a list). Because multiple view controllers will depend on the same data, ideally you have 
 			that data stored in just one place. 
 			Also, use some  emojis if you like  -  <a href="http://getemoji.com">http://getemoji.com</a> & <a href="http://emojipedia.org">http://emojipedia.org</a> - (<i>-6 if not done</i>)</li>
 			<li>Before loading a new word set the app needs to get rid of all of the old <code>UILabel</code>s. See this <a href="http://stackoverflow.com/questions/24312760/swift-how-will-i-remove-all-the-subviews-of-a-view/28516228#28516228">Stack Overflow post</a> on how to do this. (<i>-3 if not done</i>)</li>
