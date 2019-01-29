@@ -11,7 +11,7 @@
 ***This is worth 10% of the Project 1 grade***
 
   - For this first deliverable, make sure that both partners do (or attempt) ALL of the coding requirements
-  - The app is universal and runs on both iPhone and iPad. (***-2% if not done***)
+  - The app is universal and runs on both iPhone and iPad. (***\-2% if not done***)
   - The app uses Xcode 10.x/Swift 5/iOS 12.x (***-2% if not done***)
   - The app will start up with a set of related words on the screen - see mycourses for word sets, or come up with your own. (***-2% if not done***)
   - The words are draggable. (***-2% if not done***)
