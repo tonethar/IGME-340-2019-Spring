@@ -8,7 +8,8 @@
 - Get a partner and post your names to the discussion thread. (due start of class, XX/XX)
 
 ### Required App Features for Checkpoint #1 (due Tuesday XX/XX - start of class)
-  - *This is worth 10% of the Project 1 grade*
+***This is worth 10% of the Project 1 grade***
+
   - For this first deliverable, make sure that both partners do (or attempt) ALL of the coding requirements
   - The app is universal and runs on both iPhone and iPad. (*-2% if not done*)
   - The app uses Xcode 10.x/Swift 5/iOS 12.x (*-2% if not done*)
@@ -26,7 +27,8 @@
 		</ol>
 	</li>
 	
-	<li><b>Required App Features for Checkpoint #2 (due Monday night 2/27) - <i>This is worth 10% of Project 1 grade</i></b></li>
+### Required App Features for Checkpoint #2 (due Monday night XX/XX)
+***This is worth 10% of Project 1 grade***
 		<ol>
 			<li>The user can load at least 3 distinct sets of words. (see the <i>Tables I-III Walkthrough</i> for ideas on how to let the user choose something from a list). Because multiple view controllers will depend on the same data, ideally you have 
 			that data stored in just one place. 
