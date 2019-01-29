@@ -31,7 +31,7 @@
   - arrays
   - dictionaries
   - functions
-  
+- Installing Apps onto iOS devices
   
  ### Week 3
  - Creating a Custom Class - `Person.swift`
