@@ -33,7 +33,7 @@
   - functions
   
   
- ## Week 3
+ ### Week 3
  - Creating a Custom Class - `Person.swift`
  - Model-View-Controller
  - Re-write *Motivator* to become *MVC Motivator*
