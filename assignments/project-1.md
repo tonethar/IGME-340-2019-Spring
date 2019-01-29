@@ -7,7 +7,7 @@
 - Each partner individually completes the *Magneto Exercise* and posts it to mycourses (due XX/XX)
 - Get a partner and post your names to the discussion thread. (due start of class, XX/XX)
 
-### Required App Features for Checkpoint #1 (due Tuesday XX/XX - start of class)
+### Required App Features for Checkpoint #1 (see dropbox for due date)
 ***This is worth 10% of the Project 1 grade***
 
   - For this first deliverable, make sure that both partners do (or attempt) ALL of the coding requirements
@@ -27,7 +27,7 @@
 
 <hr><hr>
 
-### Required App Features for Checkpoint #2 (due Monday night XX/XX)
+### Required App Features for Checkpoint #2 (see dropbox for due date)
 ***This is worth 10% of Project 1 grade***
 
 - The user can load at least 3 distinct sets of words. (see the *Tables I-III Walkthrough* for ideas on how to let the user choose something from a list). Because multiple view controllers will depend on the same data, ideally you have 
@@ -41,8 +41,13 @@
 			<li>Make sure you still meet all of the checkpoint #1 requirements (<i>-1 per requirement not met</i>)</li>
 		</ol>
 	</li>
-	
-	<li><b>Required Final App Features  (due Sunday night 3/26) - no late submissions will be accepted - bring to class on your device the next day:</b>
+
+<hr><hr>
+
+### Required Final App Features  (see dropbox for due date)
+
+- no late submissions will be accepted
+
 		<ol>
 			<li>The app should by now been thoroughly tested on iOS hardware:
 				<ol>
@@ -93,7 +98,7 @@ or check to see the device's "user interface idiom" - see this Stack Overflow po
 	</ol>
 </section>
 
-
+<hr><hr>
 
 <section>
 <h2>Handy Links</h2>
