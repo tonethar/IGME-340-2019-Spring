@@ -4,20 +4,22 @@
 
 ## Requirements
 
-- Each partner individually completes the <i>Dr Magneto Exercise</i> and posts it to mycourses (due XX/XX)
+- Each partner individually completes the *Magneto Exercise* and posts it to mycourses (due XX/XX)
 - Get a partner and post your names to the discussion thread. (due start of class, XX/XX)
 - Required App Features for Checkpoint #1 (due Tuesday XX/XX - start of class):
   - *This is worth 10% of the Project 1 grade*
   - For this first deliverable, make sure that both partners do (or attempt) ALL of the coding requirements
-			<li>The app is universal and runs on both iPhone and iPad. (*-2% if not done*)
-			<li>The app uses Xcode 10.x/Swift 5/iOS 12.x (*-2% if not done*)
-			<li>The app will start up with a set of related words on the screen - see mycourses for word sets, or come up with your own. (<i>-2% if not done</i>)</li>
-			<li>The words are draggable. (<i>-2% if not done</i>)</li>
-			<li>At startup, the word magnets will be neatly grouped near the top of the screen. Write code that places the magnets in rows, and puts space between words and the rows. To do this you will need to access the width and height of the magnets (labels) so that you know how tall to make your rows, and when you've run out of room on a row. 
-			All word labels will have exactly the same height which is <code>label.frame.size.height</code>, and differing widths which is <code>label.frame.size.width (<i>-3% if not done</i>)</code>
-			<br><br><i>Tip: This might be a little tricky for you. Both partners should first attempt to do this by themselves. Ideally if you both get it working, you can submit the "best" solution.</i></li>
-			<li>The <i>Dr Magneto</i> word magnets are too small, especially the ones with a single character. Solution: Add a space to boths of the ends of each label's text, then center align the text in the label. (<i>-3% if not done</i>)</li>
-			<li>The app has a custom App icon - designed and created by you - for all iPad and iPhone sizes. <a href="https://designmodo.com/ios-app-icon-photoshop/">Here is a tutorial on how to create an app icon</a>. If you already have an image file you think could work as your icon (at least 1024x1024 pixels ideally), services like <a href="http://appicon.build">http://appicon.build</a> will generate all of the required icon sizes for you.(<i>-3% if not done</i>)</li>
+  - The app is universal and runs on both iPhone and iPad. (*-2% if not done*)
+  - The app uses Xcode 10.x/Swift 5/iOS 12.x (*-2% if not done*)
+  - The app will start up with a set of related words on the screen - see mycourses for word sets, or come up with your own. (*-2% if not done*)
+  - The words are draggable. (*-2% if not done*)
+  - At startup, the word magnets will be neatly grouped near the top of the screen. Write code that places the magnets in rows, and puts space between words and the rows. To do this you will need to access the width and height of the magnets (labels) so that you know how tall to make your rows, and when you've run out of room on a row. 
+  - All word labels will have exactly the same height which is `label.frame.size.height</code>`, and differing widths which is `<code>label.frame.size.width` (*3% if not done*)
+  
+*Tip: This might be a little tricky for you. Both partners should first attempt to do this by themselves. Ideally if you both get it working, you can submit the "best" solution.*
+			
+- The *Magneto* word magnets are too small, especially the ones with a single character. Solution: Add a space to boths of the ends of each label's text, then center align the text in the label. (*-3% if not done*)
+- The app has a custom App icon - designed and created by you - for all iPad and iPhone sizes. <a href="https://designmodo.com/ios-app-icon-photoshop/">Here is a tutorial on how to create an app icon</a>. If you already have an image file you think could work as your icon (at least 1024x1024 pixels ideally), services like <a href="http://appicon.build">http://appicon.build</a> will generate all of the required icon sizes for you.(<i>-3% if not done</i>)</li>
 			<li>Create a start up screen (on LaunchScreen.storyboard) that has the name of your app and your team members on it. Use an image (drag out a <code>UIImageView</code>), use auto-resizing or auto-layout to position it, and make sure it looks good on both iPhone and iPad. (<i>-3% if not done</i>)</li>
 			<li>BOTH partners bring the app to class installed on their iOS hardware (<i>-3% if not done</i>)</li>
 		</ol>
