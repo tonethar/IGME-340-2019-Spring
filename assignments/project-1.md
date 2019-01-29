@@ -5,12 +5,12 @@
 ## Requirements
 
 - Each partner individually completes the <i>Dr Magneto Exercise</i> and posts it to mycourses (due XX/XX)
-- Get a partner and post your names to the discussion thread. (due start of class, XX/XX)</li>
+- Get a partner and post your names to the discussion thread. (due start of class, XX/XX)
 - Required App Features for Checkpoint #1 (due Tuesday XX/XX - start of class):
   - *This is worth 10% of the Project 1 grade*
   - For this first deliverable, make sure that both partners do (or attempt) ALL of the coding requirements
 			<li>The app is universal and runs on both iPhone and iPad. (*-2% if not done*)
-			<li>The app uses Xcode 8.2/Swift 3/iOS 10.2 (<i>-2% if not done</i>)</li>
+			<li>The app uses Xcode 10.x/Swift 5/iOS 12.x (*-2% if not done*)
 			<li>The app will start up with a set of related words on the screen - see mycourses for word sets, or come up with your own. (<i>-2% if not done</i>)</li>
 			<li>The words are draggable. (<i>-2% if not done</i>)</li>
 			<li>At startup, the word magnets will be neatly grouped near the top of the screen. Write code that places the magnets in rows, and puts space between words and the rows. To do this you will need to access the width and height of the magnets (labels) so that you know how tall to make your rows, and when you've run out of room on a row. 
