@@ -31,6 +31,18 @@
   - arrays
   - dictionaries
   - functions
+  
+  
+ ## Week 3
+ - Creating a Custom Class - `Person.swift`
+ - Model-View-Controller
+ - Re-write *Motivator* to become *MVC Motivator*
+ - App Design Exercise:
+   - "Who goes First" App
+ - Links:
+   - [Swift Language Guide](https://docs.swift.org/swift-book/)
+   - [iOS HIG](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
+ 
 
 ## All Topics
 - Tools
