@@ -6,7 +6,8 @@
 
 - Each partner individually completes the *Magneto Exercise* and posts it to mycourses (due XX/XX)
 - Get a partner and post your names to the discussion thread. (due start of class, XX/XX)
-- Required App Features for Checkpoint #1 (due Tuesday XX/XX - start of class):
+
+### Required App Features for Checkpoint #1 (due Tuesday XX/XX - start of class)
   - *This is worth 10% of the Project 1 grade*
   - For this first deliverable, make sure that both partners do (or attempt) ALL of the coding requirements
   - The app is universal and runs on both iPhone and iPad. (*-2% if not done*)
