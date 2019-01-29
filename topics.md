@@ -38,7 +38,7 @@
  - Model-View-Controller
  - Re-write *Motivator* to become *MVC Motivator*
  - App Design Exercise:
-   - "Who goes First" App
+   - "Magnetic Poetry" App
  - Links:
    - [Swift Language Guide](https://docs.swift.org/swift-book/)
    - [iOS HIG](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
