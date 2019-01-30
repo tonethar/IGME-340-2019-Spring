@@ -166,16 +166,13 @@ See the **UIInterpolatingMotionEffect Notes** PDF in mycourses to see how to add
 
 ### V-C.Final Deliverable
 
-**Choose a word set popover**
-
+**iPad - Choose a word set popover**
 ![screenshot](./_images/ss-1.jpg)
 
-**Font size popover**
-
+**iPad Font size popover**
 ![screenshot](./_images/ss-2.jpg)
 
-
-
+**Toolbar iPhone**
 ![screenshot](./_images/ss-3.jpg)
 
 ![screenshot](./_images/ss-4.jpg)
