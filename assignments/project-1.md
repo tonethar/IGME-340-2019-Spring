@@ -167,7 +167,7 @@ See the **UIInterpolatingMotionEffect Notes** PDF in mycourses to see how to add
 
 <hr>
 
-### V-C.Final Deliverable
+### V-C. Final Deliverable
 
 **iPad - Choose a Word Set popover**
 
