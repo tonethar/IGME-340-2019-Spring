@@ -1,7 +1,7 @@
 # Project 1 - Magnetic Poetry App
 - Goal: To build a Magnetic Poetry App with a feature set designed by you (and optionally a partner)
 
-I. ## Requirements
+## I. Requirements
 
 - Each partner individually completes the *Magneto Exercise* and posts it to mycourses (see dropbox for due date)
 - Get a partner and post your names to the discussion thread. (see discussion thread for due date)
