@@ -4,8 +4,8 @@
 
 ## Requirements
 
-- Each partner individually completes the *Magneto Exercise* and posts it to mycourses (due XX/XX)
-- Get a partner and post your names to the discussion thread. (due start of class, XX/XX)
+- Each partner individually completes the *Magneto Exercise* and posts it to mycourses (see dropbox for due date)
+- Get a partner and post your names to the discussion thread. (see discussion thread for due date)
 
 ### Required App Features for Checkpoint #1 (see dropbox for due date)
 ***This is worth 10% of the Project 1 grade***
@@ -45,83 +45,60 @@
 <hr><hr>
 
 ### Required Final App Features  (see dropbox for due date)
+***Late submissions will be not accepted***
 
-- no late submissions will be accepted
+- The app should by now been thoroughly tested on iOS hardware:
+  - The app should display properly on either landscape OR portrait orientation, and on both iPhone and iPad. I recommend choosing one orientation for the app, either portrait or landscape, and making that the sole orientation of the app
+  - There should be no obvious usability issues
+  - State Preservation. The user's current chosen category will be stored in `UserDefaults`, and the chosen word set will be displayed when they launch the app
+  - Use a larger font size when creating word magnets for an iPad. You can either:
+    - look at the width of the screen and base the font size on that value
+or check to see the device's "user interface idiom" - see this Stack Overflow post - http://stackoverflow.com/questions/24059327/detect-current-device-with-ui-user-interface-idiom-in-swift
+				Be sure that the words can still fit on the smallest iPhone screens available in the simulator (the iPhone SE)
+- The user can share their poetry (a screenshot of the entire poem) with others using Social Networks with the `UIActivityViewController` class
+- The user can choose a poetry background image from their Photo Library with the `UIImagePickerController` class
+- The app meets all requirements of checkpoints #1 and #2 (*-5% per requirement not met*)
+- Because multiple view controllers will depend on the same data, you have a [Singleton](https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/Singleton.html) [*model class*](https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/ModelObject.html) that manages/contains your application data
+- Code Conventions
+  - Class names are capitalized, instance variables begin in lowercase (*-1 per incidence*)
+  - Code files in the Xcode *Project Navigator* are organized in groups for example, *VC*, *Model*, *Lib*, *Helpers*, *Extensions* etc...(*-5 if not done*)
+  - Get rid of all compiler warnings - including those for unused variables, missing icons, and broken Storyboard constraints (*-1 per compiler warning*)
+  - Use `//MARK: - Some Category -` in your view controller classes to organize your code. Possible categories include `>ivars`, `Private Helper Methods`, `Storyboard Action Methods`, `Initialization`, `View Lifecycle`, `GestureRecognizer Action Methods`, `UIImagePickerController Delegate Methods`, and so on
+  - If the app crashes, there will be an additional penalty of -10%</li>
 
-		<ol>
-			<li>The app should by now been thoroughly tested on iOS hardware:
-				<ol>
-					<li>The app should display properly on either landscape or portrait orientation, and on both iPhone and iPad. I recommend choosing one orientation for the app, either portrait or landscape, and making that the sole orientation of the app.</li>
-					<li>There should be no obvious usability issues.</li>
-				</ol>
-			</li>
-			<li>State Preservation. The user's current chosen category will be stored in <code>UserDefaults</code>, and the chosen word set will be displayed in when they launch the app.</li>
-			<li>Use a larger font size when creating word magnets for an iPad. You can either:
-look at the width of the screen (do a google search on how to get the width of the screen) and base the font size on that value, 
-or check to see the device's "user interface idiom" - see this Stack Overflow post:
- 				<a href="http://stackoverflow.com/questions/24059327/detect-current-device-with-ui-user-interface-idiom-in-swift">http://stackoverflow.com/questions/24059327/detect-current-device-with-ui-user-interface-idiom-in-swift</a>
-				Be sure that the words can still fit on the smallest iPhone screens (the iPhone 5/iPhone SE)
-			</li>
-			<li>The user can share their poetry (a screenshot of the entire poem) with others using Social Networks with the <code>UIActivityViewController</code> class.</li>
-			<li>The user can choose a poetry background image from their Photo Library with the <code>UIImagePickerController</code> class.</li>
-			<li>The app meets all requirements of checkpoints #1 and #2 (-5% per requirement not met)</li>
-			<li>Because multiple view controllers will depend on the same data, you have a <a href="https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/Singleton.html">Singleton</a> <a href="https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/ModelObject.html"><i>model class</i></a> that manages/contains your application data.</li>
-			<li>Code Conventions
-				<ul>
-					<li>Class names are capitalized, instance variables begin in lowercase (<i>-1 per incidence</i>)</li>
-					<li>Code files in the Xcode <i>Project Navigator</i> are organized in groups for example, <i>VC</i>, <i>Model</i>, <i>Lib</i>, <i>Helpers</i>, <i>Extensions</i> etc...(<i>-5 if not done</i>)
-					<li>Get rid of all compiler warnings - including those for unused variables, missing icons, and broken Storyboard constraints (<i>-1 per compiler warning</i>)</li>
-					<li>Use <code>//MARK: - Some Category -</code> in your view controller classes to organize your code. Possible categories include <code>ivars</code>, <code>Private Helper Methods</code>, <code>Storyboard Action Methods</code>, <code>Initialization</code>, <code>View Lifecycle</code>, <code>GestureRecognizer Action Methods</code>, <code>UIImagePickerController Delegate Methods</code>, and so on.</li>
-					<li>If the app crashes, there will be an additional penalty of -10%</li>
-				</ul>
-			</li>
-			
-		</ol>
-	</li>
-	
-	<li><b>Extra Features:</b>
-		<ul>
-			<li>Doing all of the above gets an 85% - to get a higher grade you need to go "above and beyond". Be sure to document your extras in a seperate file or in the comments field of the dropbox. If you don't, you will not get credit for them. Here are some ideas:
-				<ul>
-					<li>Add Word to existing word set/Make new word set</li>
-					<li>Delete Words, and animate it - look at <i>Hello RIT-2</i></li>
-					<li>Rotate words - see <i>GestureRecognizer Demo</i> in mycourses </li>
-					<li>Custom Fonts - use a <code>UIPickerView</code> - see this tutorial - <a href="http://codewithchris.com/uipickerview-example/">http://codewithchris.com/uipickerview-example</a></li>
-					<li>Slider for Font Size - use a <code>UISlider</code> see this tutorial - <a href="http://sourcefreeze.com/ios-slider-uislider-example-using-swift/">http://sourcefreeze.com/ios-slider-uislider-example-using-swift</a></li>
-					<li>UI Animation - go back and look at <i>Hello RIT-2</i></li>
-					<li>If the app force-quits, the user's last poem should be preserved, the previous background image will be restored, and all of the word magnets should be in the same location.</li>
-					<li>... you decide!!! ...</li>
-				</ul>
-			</li>
-		</ul>
-	</li>
-	</ol>
-</section>
+### Extra Features:
+
+- Doing all of the above gets an 85% - to get a higher grade you need to go "above and beyond". Be sure to document your extras in a seperate file or in the comments field of the dropbox. If you don't, you will not get credit for them. Here are some ideas:
+  - Add Word to existing word set/Make new word set
+  - Delete Words, and animate it - look at *Hello RIT-2*
+  - Rotate words - see *GestureRecognizer Demo* in mycourses
+  - Custom Fonts - use a `UIPickerView` - see this tutorial - http://codewithchris.com/uipickerview-example/
+  - Slider for Font Size - use a `UISlider` see this tutorial - http://sourcefreeze.com/ios-slider-uislider-example-using-swift
+  - UI Animation - go back and look at *Hello RIT-2*
+  - If the app force-quits, the user's last poem should be preserved, the previous background image will be restored, and all of the word magnets should be in the same location
+  - you decide!!! ...
 
 <hr><hr>
 
-<section>
-<h2>Handy Links</h2>
-<ul>
-	<li>Some examples of previous Magnet projects and best practices are here: <a target="_blank" href="pages/p1-images/Project-1-comments.pdf">Project-1-comments.pdf</a>
-	<li><a href="http://magneticpoetry.com/pages/play-online">magneticpoetry.com</a></li>
-	<li><a href="http://forum.rpg.net/showthread.php?590734-Lovecraftian-Letters-HPL-Fridge-Magnet-Set-Preorder-Special">Lovecraftian Letters</a></li>
-	<li><a href="http://getemoji.com">getemoji.com</a></li>
-	<li><a href="http://emojipedia.org">emojipedia.org</a></li>
-	<li><a href="http://nshipster.com/uiactivityviewcontroller/">nshipster.com - UIActivityViewController</a></li>
-	<li><a href="https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIActivityViewController_Class/index.html">developer.apple.com - UIActivityViewController</a></li>
-	<li><a href="https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIActivity_Class/index.html">developer.apple.com - UIActivity</a></li>
-</ul>
+### Handy Links\
+- Some examples of previous Magnet projects and best practices are here: [Project-1-comments.pdf](http://igm.rit.edu/~acjvks/courses/2017-spring/340/pages/p1-images/Project-1-comments.pdf)
+- [Magnetic Poetry](http://magneticpoetry.com/pages/play-online)
+- [Lovecraftian Letters](http://forum.rpg.net/showthread.php?590734-Lovecraftian-Letters-HPL-Fridge-Magnet-Set-Preorder-Special">Lovecraftian Letters)
+- http://getemoji.com
+- http://emojipedia.org">emojipedia.org</a></li>
+- http://nshipster.com/uiactivityviewcontroller/
+- https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIActivityViewController_Class/index.html
+- https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIActivity_Class/index.html
 
-</section>
+<hr><hr>
 
-<section>
-<h2>Code Hints</h2>
-<h3>Hint #1</h3>
-<p>The easiest way to add spaces to your magnets is to do so right after you create the label  - and to use string interpolation like so in your label creation loop:
-<code>label.text = " \(word) " </code></p>
+### Code Hints
 
-<h3>Hint #2</h3>
+#### Hint #1
+The easiest way to add spaces to your magnets is to do so right after you create the label  - and to use string interpolation like so in your label creation loop:
+`label.text = " \(word) "`
+
+#### Hint #2
 <p>Animating your magnets when they first appear on the screen or when a word category is changed is a nice effect. Below is code that I have running in my <code>placeWords()</code> method - in the loop that creates the magnets.</p>
 <p>All of the words are initially placed at random location on the screen, with 0.5 opacity, and then moved to their proper calculated position in the animations: block below:
 (The <code>center</code> variable is each word's proper ending position.)</p>
