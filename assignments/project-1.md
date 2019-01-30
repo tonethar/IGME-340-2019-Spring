@@ -149,13 +149,13 @@ See the **UIInterpolatingMotionEffect Notes** PDF in mycourses to see how to add
 
 ## V. Screenshots
 
-### Checkpoint #1
+### V-A. Checkpoint #1
 
 ![splash screen iPad](./_images/splash-deliverable-1.jpg)
 
 ![main screen iPhone](./_images/main-deliverable-1.jpg)
 
-### Checkpoint #2
+### V-B. Checkpoint #2
 
 ![main screen iPhone](./_images/main-deliverable-2.jpg)
 
@@ -164,4 +164,29 @@ See the **UIInterpolatingMotionEffect Notes** PDF in mycourses to see how to add
 ![main screen ipad](./_images/ipad-main-deliverable-2.jpg)
 
 
+### V-C.Final Deliverable
+
+![screenshot](./_images/ss-1.jpg)
+
+![screenshot](./_images/ss-2.jpg)
+
+![screenshot](./_images/ss-3.jpg)
+
+![screenshot](./_images/ss-4.jpg)
+
+![screenshot](./_images/ss-5.jpg)
+
+![screenshot](./_images/ss-6.jpg)
+
+![screenshot](./_images/ss-7.jpg)
+
+![screenshot](./_images/ss-8.jpg)
+
+![screenshot](./_images/ss-9.jpg)
+
+![screenshot](./_images/ss-10.jpg)
+
+![screenshot](./_images/ss-11.jpg)
+
+![screenshot](./_images/ss-12.jpg)
 
