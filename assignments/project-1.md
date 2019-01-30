@@ -1,7 +1,7 @@
 # Project 1 - Magnetic Poetry App
 - Goal: To build a Magnetic Poetry App with a feature set designed by you (and optionally a partner)
 
-## Requirements
+I. ## Requirements
 
 - Each partner individually completes the *Magneto Exercise* and posts it to mycourses (see dropbox for due date)
 - Get a partner and post your names to the discussion thread. (see discussion thread for due date)
@@ -65,7 +65,7 @@ or check to see the device's "user interface idiom" - see this Stack Overflow po
   - Use `//MARK: - Some Category -` in your view controller classes to organize your code. Possible categories include `>ivars`, `Private Helper Methods`, `Storyboard Action Methods`, `Initialization`, `View Lifecycle`, `GestureRecognizer Action Methods`, `UIImagePickerController Delegate Methods`, and so on
   - If the app crashes, there will be an additional penalty of -10%</li>
 
-### Extra Features:
+II. ## Extra Features:
 
 - Doing all of the above gets an 85% - to get a higher grade you need to go "above and beyond". Be sure to document your extras in a seperate file or in the comments field of the dropbox. If you don't, you will not get credit for them. Here are some ideas:
   - Add Word to existing word set/Make new word set
@@ -79,7 +79,7 @@ or check to see the device's "user interface idiom" - see this Stack Overflow po
 
 <hr><hr>
 
-### Handy Links
+## III. Handy Links
 - Some examples of previous Magnet projects and best practices are here: [Project-1-comments.pdf](http://igm.rit.edu/~acjvks/courses/2017-spring/340/pages/p1-images/Project-1-comments.pdf)
 - [Magnetic Poetry](http://magneticpoetry.com/pages/play-online)
 - [Lovecraftian Letters](http://forum.rpg.net/showthread.php?590734-Lovecraftian-Letters-HPL-Fridge-Magnet-Set-Preorder-Special">Lovecraftian Letters)
@@ -91,13 +91,13 @@ or check to see the device's "user interface idiom" - see this Stack Overflow po
 
 <hr><hr>
 
-### Code Hints
+## IV. Code Hints
 
-#### Hint #1
+### Hint #1
 The easiest way to add spaces to your magnets is to do so right after you create the label  - and to use string interpolation like so in your label creation loop:
 `label.text = " \(word) "`
 
-#### Hint #2
+### Hint #2
 - Animating your magnets when they first appear on the screen or when a word category is changed is a nice effect. Below is code that I have running in my `placeWords()` method - in the loop that creates the magnets
 - All of the words are initially placed at random location on the screen, with 0.5 opacity, and then moved to their proper calculated position in the animations: block below:
 
@@ -116,7 +116,7 @@ UIView.animate(withDuration: 1.0,
  )
 ```
  
-#### Hint #3
+### Hint #3
 - Hint #2 above works well when the magnet view first loads, and works fine on an iPad, but if you change the word category on an iPhone, and then return to the main magnet screen, the category has changed but the animation never happens
 - I found a work around that uses the Grand Central Dispatch API (which we have not covered) to fire the animation 10 milliseconds after the words are added to the screen
 
@@ -128,32 +128,32 @@ DispatchQueue.main.asyncAfter(deadline: fireTime){
 } // trailing closure syntax!
 ```
 
-#### Hint #4
+### Hint #4
 *Sick of everything in your app being gray?*
 
 `UIAppearance` is a protocol on many UIKit classes that allows you to change the styling of UI elements for either your entire app, or just for for specific elements. See **Using UIAppearance** PDF in mycourses 
 
 
-#### Hint #5
+### Hint #5
 
 See the **UIInterpolatingMotionEffect Notes** PDF in mycourses to see how to add "kinetic realism" to your app. Put the effect on each word when you add them to the scene, and make the effect subtle
 
 
-#### Hint #6
+### Hint #6
 - When doing the final testing your app, be sure to delete it off of the simulator and your iOS device, reinstall it, and be sure that it works in the "first run" state.
 - This is necessary to do so that you can be 100% sure that your `UserDefaults` code is properly written
 
 <hr><hr>
 
-### Screenshots
+## V. Screenshots
 
-#### Checkpoint #1
-
-![screenshot](./_images/)
+### Checkpoint #1
 
 ![screenshot](./_images/)
 
-#### Checkpoint #2
+![screenshot](./_images/)
+
+### Checkpoint #2
 
 ![screenshot](./_images/)
 
