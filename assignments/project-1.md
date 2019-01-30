@@ -155,6 +155,8 @@ See the **UIInterpolatingMotionEffect Notes** PDF in mycourses to see how to add
 
 ![main screen iPhone](./_images/main-deliverable-1.jpg)
 
+<hr>
+
 ### V-B. Checkpoint #2
 
 ![main screen iPhone](./_images/main-deliverable-2.jpg)
@@ -163,6 +165,7 @@ See the **UIInterpolatingMotionEffect Notes** PDF in mycourses to see how to add
 
 ![main screen ipad](./_images/ipad-main-deliverable-2.jpg)
 
+<hr>
 
 ### V-C.Final Deliverable
 
@@ -170,21 +173,31 @@ See the **UIInterpolatingMotionEffect Notes** PDF in mycourses to see how to add
 
 ![screenshot](./_images/ss-1.jpg)
 
+<hr>
+
 **iPad Change Font Size popover**
 
 ![screenshot](./_images/ss-2.jpg)
+
+<hr>
 
 **Toolbar iPhone**
 
 ![screenshot](./_images/ss-3.jpg)
 
+<hr>
+
 **iPhone - Choose a Word Set VC**
 
 ![screenshot](./_images/ss-4.jpg)
 
+<hr>
+
 **iPhone - Change Font Size VC**
 
 ![screenshot](./_images/ss-5.jpg)
+
+<hr>
 
 ![screenshot](./_images/ss-6.jpg)
 
