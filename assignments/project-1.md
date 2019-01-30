@@ -149,14 +149,14 @@ See the **UIInterpolatingMotionEffect Notes** PDF in mycourses to see how to add
 
 #### Checkpoint #1
 
-[!screenshot](./_images/)
+![screenshot](./_images/)
 
-[!screenshot](./_images/)
+![screenshot](./_images/)
 
 #### Checkpoint #2
 
-[!screenshot](./_images/)
+![screenshot](./_images/)
 
-[!screenshot](./_images/)
+![screenshot](./_images/)
 
-[!screenshot](./_images/)
+![screenshot](./_images/)
