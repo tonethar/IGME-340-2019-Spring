@@ -166,9 +166,15 @@ See the **UIInterpolatingMotionEffect Notes** PDF in mycourses to see how to add
 
 ### V-C.Final Deliverable
 
+**Choose a word set popover**
+
 ![screenshot](./_images/ss-1.jpg)
 
+**Font size popover**
+
 ![screenshot](./_images/ss-2.jpg)
+
+
 
 ![screenshot](./_images/ss-3.jpg)
 
