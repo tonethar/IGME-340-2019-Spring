@@ -65,7 +65,9 @@ or check to see the device's "user interface idiom" - see this Stack Overflow po
   - Use `//MARK: - Some Category -` in your view controller classes to organize your code. Possible categories include `>ivars`, `Private Helper Methods`, `Storyboard Action Methods`, `Initialization`, `View Lifecycle`, `GestureRecognizer Action Methods`, `UIImagePickerController Delegate Methods`, and so on
   - If the app crashes, there will be an additional penalty of -10%</li>
 
-II. ## Extra Features:
+<hr><hr>
+
+## II. Extra Features:
 
 - Doing all of the above gets an 85% - to get a higher grade you need to go "above and beyond". Be sure to document your extras in a seperate file or in the comments field of the dropbox. If you don't, you will not get credit for them. Here are some ideas:
   - Add Word to existing word set/Make new word set
