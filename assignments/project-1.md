@@ -80,7 +80,7 @@ or check to see the device's "user interface idiom" - see this Stack Overflow po
 
 <hr><hr>
 
-### Handy Links\
+### Handy Links
 - Some examples of previous Magnet projects and best practices are here: [Project-1-comments.pdf](http://igm.rit.edu/~acjvks/courses/2017-spring/340/pages/p1-images/Project-1-comments.pdf)
 - [Magnetic Poetry](http://magneticpoetry.com/pages/play-online)
 - [Lovecraftian Letters](http://forum.rpg.net/showthread.php?590734-Lovecraftian-Letters-HPL-Fridge-Magnet-Set-Preorder-Special">Lovecraftian Letters)
@@ -99,11 +99,12 @@ The easiest way to add spaces to your magnets is to do so right after you create
 `label.text = " \(word) "`
 
 #### Hint #2
-<p>Animating your magnets when they first appear on the screen or when a word category is changed is a nice effect. Below is code that I have running in my <code>placeWords()</code> method - in the loop that creates the magnets.</p>
-<p>All of the words are initially placed at random location on the screen, with 0.5 opacity, and then moved to their proper calculated position in the animations: block below:
-(The <code>center</code> variable is each word's proper ending position.)</p>
+- Animating your magnets when they first appear on the screen or when a word category is changed is a nice effect. Below is code that I have running in my `placeWords()` method - in the loop that creates the magnets
+- All of the words are initially placed at random location on the screen, with 0.5 opacity, and then moved to their proper calculated position in the animations: block below:
 
-<pre>
+(The `center` variable is each word's proper ending position.)
+
+```swift
 // adapted from "Hello RIT II" ICE
 UIView.animate(withDuration: 1.0,
     delay: 0.0,
@@ -114,34 +115,49 @@ UIView.animate(withDuration: 1.0,
     },
     completion: nil
  )
- </pre>
+```
  
- 
- 
-<h3>Hint #3</h3>
-<p>Hint #2 above works well when the magnet view first loads, and works fine on an iPad, but if you change the word category on an iPhone, and then return to the main magnet screen, the category has changed but the animation never happens.</p>
-<p>I found a work around that uses the Grand Central Dispatch API (which we have not covered) to fire the animation 10 milliseconds after the words are added to the screen.</p>
-<pre>
+#### Hint #3
+- Hint #2 above works well when the magnet view first loads, and works fine on an iPad, but if you change the word category on an iPhone, and then return to the main magnet screen, the category has changed but the animation never happens
+- I found a work around that uses the Grand Central Dispatch API (which we have not covered) to fire the animation 10 milliseconds after the words are added to the screen
+
+```swift
 let fireTime = DispatchTime.now() + .milliseconds(10)
 DispatchQueue.main.asyncAfter(deadline: fireTime){
     // UIView.animate() code goes here
      print("code will fire in 10 milliseconds)
 } // trailing closure syntax!
-</pre>
+```
+
+#### Hint #4
+*Sick of everything in your app being gray?*
+
+`UIAppearance` is a protocol on many UIKit classes that allows you to change the styling of UI elements for either your entire app, or just for for specific elements. See **Using UIAppearance** PDF in mycourses 
 
 
-<h3>Hint #4</h3>
-<p><em>Sick of everything in your app being gray?</em></p>
+#### Hint #5
 
-<p>
-<code>UIAppearance</code> is a protocol on many UIKit classes that allows you to change the styling of UI elements for either your entire app, or just for for specific elements. See <b>Using UIAppearance</b> PDF in week 8.
-</p>
-
-<h3>Hint #5</h3>
-<p>See the <b>UIInterpolatingMotionEffect Notes</b> PDF in week 8 of my courses to see how to add "kinetic realism" to your app. Put the effect on each word when you add them to the scene, and make the effect subtle.</p>
+See the **UIInterpolatingMotionEffect Notes** PDF in mycourses to see how to add "kinetic realism" to your app. Put the effect on each word when you add them to the scene, and make the effect subtle
 
 
-<h3>Hint #6</h3>
-<p>When doing the final testing your app, be sure to delete it off of the simulator and your iOS device, reinstall it, and be sure that it works in the "first run" state.
-This is necessary to do so that you can be 100% sure that your <code>UserDefaults</code> code is properly written.</p>
-</section>
+#### Hint #6
+- When doing the final testing your app, be sure to delete it off of the simulator and your iOS device, reinstall it, and be sure that it works in the "first run" state.
+- This is necessary to do so that you can be 100% sure that your `UserDefaults` code is properly written
+
+<hr><hr>
+
+### Screenshots
+
+#### Checkpoint #1
+
+[!screenshot](./_images/)
+
+[!screenshot](./_images/)
+
+#### Checkpoint #2
+
+[!screenshot](./_images/)
+
+[!screenshot](./_images/)
+
+[!screenshot](./_images/)
