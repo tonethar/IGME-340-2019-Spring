@@ -1,6 +1,5 @@
 # Project 1 - Magnetic Poetry App
-- Goal: To build a Magnetic Poetry App.
-
+- Goal: To build a Magnetic Poetry App with a feature set designed by you (and optionally a partner)
 
 ## Requirements
 
