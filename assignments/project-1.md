@@ -151,14 +151,17 @@ See the **UIInterpolatingMotionEffect Notes** PDF in mycourses to see how to add
 
 ### Checkpoint #1
 
-![screenshot](./_images/)
+![splash screen iPad](./_images/splash-deliverable-1.jpg)
 
-![screenshot](./_images/)
+![main screen iPhone](./_images/main-deliverable-1.jpg)
 
 ### Checkpoint #2
 
-![screenshot](./_images/)
+![main screen iPhone](./_images/main-deliverable-2.jpg)
 
-![screenshot](./_images/)
+![category screen iPhone](./_images/category-deliverable-2.jpg)
 
-![screenshot](./_images/)
+![main screen ipad](./_images/ipad-main-deliverable-2.jpg)
+
+
+
