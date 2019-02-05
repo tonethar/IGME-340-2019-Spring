@@ -45,10 +45,12 @@
    - [iOS HIG](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
  ### Week 4
  - Review *Monster HW*
-   - add `description` method
+   - add `didSet` property observer
+   - add `description` method via - `CustomStringConvertible` - https://developer.apple.com/documentation/swift/customstringconvertible
  - Review *Motivator MVC Plus Bromides*
    - *nil coalescing operator* - `??` - is like a ternary operator for optionals 
    - random array elements
+   - use `enum` to get rid of "magic numbers" in your code
  - Assign Project 1
  
 
