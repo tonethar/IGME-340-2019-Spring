@@ -50,6 +50,7 @@
  - Review *Motivator MVC Plus Bromides*
    - *nil coalescing operator* - `??` - is like a ternary operator for optionals 
    - random array elements
+   - class extensions
    - use `enum` to get rid of "magic numbers" in your code
  - Assign Project 1
  
