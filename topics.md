@@ -36,12 +36,20 @@
  ### Week 3
  - Creating a Custom Class - `Person.swift`
  - Model-View-Controller
+   - model contains and validates the data
  - Re-write *Motivator* to become *MVC Motivator*
  - App Design Exercise:
    - "Magnetic Poetry" App
  - Links:
    - [Swift Language Guide](https://docs.swift.org/swift-book/)
    - [iOS HIG](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
+ ### Week 4
+ - Review *Monster HW*
+   - add `description` method
+ - Review *Motivator MVC Plus Bromides*
+   - *nil coalescing operator* - `??` - is like a ternary operator for optionals 
+   - random array elements
+ - Assign Project 1
  
 
 ## All Topics
