@@ -52,7 +52,7 @@
    - random array elements
    - class extensions
    - use `enum` to get rid of "magic numbers" in your code
- - Assign [Project 1](../assignments/project-1.md)
+ - Assign [Project 1](./assignments/project-1.md)
  
 
 ## All Topics
