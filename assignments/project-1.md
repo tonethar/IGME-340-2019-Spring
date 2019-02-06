@@ -21,7 +21,7 @@
   
 *Tip: This might be a little tricky for you. Both partners should first attempt to do this by themselves. Ideally if you both get it working, you can submit the "best" solution.*
 			
-- The *Magneto* word magnets are too small, especially the ones with a single character. Solution: Add a space to boths of the ends of each label's text, then center align the text in the label. (*-3% if not done*)
+- The *Magneto* word magnets are too small, especially the ones with a single character. Solution: Add a space to both of the ends of each label's text, then center align the text in the label. (*-3% if not done*)
 - The app has a custom App icon - designed and created by you - for all iPad and iPhone sizes. [Here is a tutorial on how to create an app icon](https://designmodo.com/ios-app-icon-photoshop). If you already have an image file you think could work as your icon (at least 1024x1024 pixels ideally), services like http://appicon.build will generate all of the required icon sizes for you. (*-3% if not done*)
 - Create a start up screen (on LaunchScreen.storyboard) that has the name of your app and your team members on it. Use an image (drag out a `UIImageView`), use auto-resizing or auto-layout to position it, and make sure it looks good on both iPhone and iPad. (*-3% if not done*)
 - BOTH partners bring the app to class installed on their iOS hardware (*-3% if not done*)
