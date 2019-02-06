@@ -6,6 +6,8 @@
 - Each partner individually completes the *Magneto Exercise* and posts it to mycourses (see dropbox for due date)
 - Get a partner and post your names to the discussion thread. (see discussion thread for due date)
 
+<a id="checkpoint1"></a>
+
 ### Required App Features for Checkpoint #1 (see dropbox for due date)
 ***This is worth 10% of the Project 1 grade***
 
@@ -25,6 +27,8 @@
 - BOTH partners bring the app to class installed on their iOS hardware (*-3% if not done*)
 
 <hr><hr>
+
+<a id="checkpoint2"></a>
 
 ### Required App Features for Checkpoint #2 (see dropbox for due date)
 ***This is worth 10% of Project 1 grade***
