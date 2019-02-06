@@ -66,8 +66,16 @@ or check to see the device's "user interface idiom" - see this Stack Overflow po
   - Class names are capitalized, instance variables begin in lowercase (*-1 per incidence*)
   - Code files in the Xcode *Project Navigator* are organized in groups for example, *VC*, *Model*, *Lib*, *Helpers*, *Extensions* etc...(*-5 if not done*)
   - Get rid of all compiler warnings - including those for unused variables, missing icons, and broken Storyboard constraints (*-1 per compiler warning*)
-  - Use `//MARK: - Some Category -` in your view controller classes to organize your code. Possible categories include `>ivars`, `Private Helper Methods`, `Storyboard Action Methods`, `Initialization`, `View Lifecycle`, `GestureRecognizer Action Methods`, `UIImagePickerController Delegate Methods`, and so on
-  - If the app crashes, there will be an additional penalty of -10%</li>
+  - Use `//MARK: - Some Category -` in your view controller classes to organize your code - possible categories include:
+    - `ivars`
+    - `Private Helper Methods`
+    - `Storyboard Action Methods`
+    - `Initialization`
+    - `View Lifecycle`
+    - `GestureRecognizer Action Methods`
+    - `UIImagePickerController Delegate Methods`
+    - and so on
+  - If the app crashes, there will be an additional penalty of -10%
 
 <hr><hr>
 
