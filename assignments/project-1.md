@@ -151,6 +151,8 @@ See the **UIInterpolatingMotionEffect Notes** PDF in mycourses to see how to add
 
 <hr><hr>
 
+<a id="screenshots"></a>
+
 ## V. Screenshots
 
 ### V-A. Checkpoint #1
