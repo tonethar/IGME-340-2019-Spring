@@ -16,7 +16,7 @@
   - The app uses Xcode 10.x/Swift 5/iOS 12.x (*-2% if not done*)
   - The app will start up with a set of related words on the screen - see mycourses for word sets, or come up with your own. (*-2% if not done*)
   - The words are draggable. (*-2% if not done*)
-  - At startup, the word magnets will be neatly grouped near the top of the screen (see screenshot below). Write code that places the magnets in rows, and puts space between words and the rows. To do this you will need to access the width and height of the magnets (labels) so that you know how tall to make your rows, and when you've run out of room on a row. (*-5% if not done*)
+  - At startup, the word magnets will be neatly grouped near the top of the screen (*see screenshot below*). Write code that places the magnets in rows, and puts space between words and the rows. To do this you will need to access the width and height of the magnets (labels) so that you know how tall to make your rows, and when you've run out of room on a row. (*-5% if not done*)
   - All word labels will have exactly the same height which is `label.frame.size.height`, and differing widths which is `label.frame.size.width` (*-3% if not done*)
   
 *Tip: This might be a little tricky for you. Both partners should first attempt to do this by themselves. Ideally if you both get it working, you can submit the "best" solution.*
