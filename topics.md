@@ -58,6 +58,19 @@
    - Demo importing icons
    - Demo setting up a splash screen
    - Everything you need for completing checkpoints #1 & #2 is posted!
+ ### Week 5
+ - Storyboard
+   - autolayout
+   - autoresizing
+ - Tables
+   - delegate protocols
+   - datasource prototcols
+ - ViewControllers
+   - segues
+ - Navigation vars
+   - adding buttons
+   
+   
  
 
 ## All Topics
