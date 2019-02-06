@@ -16,12 +16,16 @@
   - The app uses Xcode 10.x/Swift 5/iOS 12.x (*-2% if not done*)
   - The app will start up with a set of related words on the screen - see mycourses for word sets, or come up with your own. (*-2% if not done*)
   - The words are draggable. (*-2% if not done*)
-  - At startup, the word magnets will be neatly grouped near the top of the screen. Write code that places the magnets in rows, and puts space between words and the rows. To do this you will need to access the width and height of the magnets (labels) so that you know how tall to make your rows, and when you've run out of room on a row. (*-5% if not done*)
+  - At startup, the word magnets will be neatly grouped near the top of the screen (see screenshot below). Write code that places the magnets in rows, and puts space between words and the rows. To do this you will need to access the width and height of the magnets (labels) so that you know how tall to make your rows, and when you've run out of room on a row. (*-5% if not done*)
   - All word labels will have exactly the same height which is `label.frame.size.height`, and differing widths which is `label.frame.size.width` (*-3% if not done*)
   
 *Tip: This might be a little tricky for you. Both partners should first attempt to do this by themselves. Ideally if you both get it working, you can submit the "best" solution.*
 			
 - The *Magneto* word magnets are too small, especially the ones with a single character. Solution: Add a space to both of the ends of each label's text, then center align the text in the label. (*-3% if not done*)
+ - Use a larger font size when creating word magnets for an iPad. You can either:
+    - look at the width or height of the screen and base the font size on that value
+or check to see the device's "user interface idiom" - see this Stack Overflow post - http://stackoverflow.com/questions/24059327/detect-current-device-with-ui-user-interface-idiom-in-swift
+    - Be sure that the words can still fit on the smallest iPhone screens available in the simulator (the iPhone SE)
 - The app has a custom App icon - designed and created by you - for all iPad and iPhone sizes. [Here is a tutorial on how to create an app icon](https://designmodo.com/ios-app-icon-photoshop). If you already have an image file you think could work as your icon (at least 1024x1024 pixels ideally), services like http://appicon.build will generate all of the required icon sizes for you. (*-3% if not done*)
 - Create a start up screen (on LaunchScreen.storyboard) that has the name of your app and your team members on it. Use an image (drag out a `UIImageView`), use auto-resizing or auto-layout to position it, and make sure it looks good on both iPhone and iPad. (*-3% if not done*)
 - BOTH partners bring the app to class installed on their iOS hardware (*-3% if not done*)
@@ -54,10 +58,6 @@
   - The app should display properly on either landscape OR portrait orientation, and on both iPhone and iPad. I recommend choosing one orientation for the app, either portrait or landscape, and making that the sole orientation of the app
   - There should be no obvious usability issues
   - State Preservation. The user's current chosen category will be stored in `UserDefaults`, and the chosen word set will be displayed when they launch the app
-  - Use a larger font size when creating word magnets for an iPad. You can either:
-    - look at the width of the screen and base the font size on that value
-or check to see the device's "user interface idiom" - see this Stack Overflow post - http://stackoverflow.com/questions/24059327/detect-current-device-with-ui-user-interface-idiom-in-swift
-				Be sure that the words can still fit on the smallest iPhone screens available in the simulator (the iPhone SE)
 - The user can share their poetry (a screenshot of the entire poem) with others using Social Networks with the `UIActivityViewController` class
 - The user can choose a poetry background image from their Photo Library with the `UIImagePickerController` class
 - The app meets all requirements of checkpoints #1 and #2 (*-5% per requirement not met*)
