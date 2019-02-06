@@ -23,8 +23,8 @@
 			
 - The *Magneto* word magnets are too small, especially the ones with a single character. Solution: Add a space to both of the ends of each label's text, then center align the text in the label. (*-3% if not done*)
  - Use a larger font size when creating word magnets for an iPad. You can either:
-    - look at the width or height of the screen and base the font size on that value
-or check to see the device's "user interface idiom" - see this Stack Overflow post - http://stackoverflow.com/questions/24059327/detect-current-device-with-ui-user-interface-idiom-in-swift
+    - look at the width or height of the screen and base the font size on that value OR
+    - check to see the device's "user interface idiom" - see this Stack Overflow post - http://stackoverflow.com/questions/24059327/detect-current-device-with-ui-user-interface-idiom-in-swift
     - Be sure that the words can still fit on the smallest iPhone screens available in the simulator (the iPhone SE)
 - The app has a custom App icon - designed and created by you - for all iPad and iPhone sizes. [Here is a tutorial on how to create an app icon](https://designmodo.com/ios-app-icon-photoshop). If you already have an image file you think could work as your icon (at least 1024x1024 pixels ideally), services like http://appicon.build will generate all of the required icon sizes for you. (*-3% if not done*)
 - Create a start up screen (on LaunchScreen.storyboard) that has the name of your app and your team members on it. Use an image (drag out a `UIImageView`), use auto-resizing or auto-layout to position it, and make sure it looks good on both iPhone and iPad. (*-3% if not done*)
