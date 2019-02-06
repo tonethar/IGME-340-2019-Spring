@@ -57,6 +57,7 @@
    - Form Groups
    - Demo importing icons
    - Demo setting up a splash screen
+   - Everything you need for completing checkpoints #1 & #2 is posted!
  
 
 ## All Topics
