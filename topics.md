@@ -69,6 +69,7 @@
    - segues
  - Navigation vars
    - adding buttons
+ - Singleton ICE
    
    
  
