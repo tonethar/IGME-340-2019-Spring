@@ -96,7 +96,7 @@
 ## III. Handy Links
 - Some examples of previous Magnet projects and best practices are here: [Project-1-comments.pdf](./_images/Project-1-comments.pdf)
 - [Magnetic Poetry](http://magneticpoetry.com/pages/play-online)
-- [Lovecraftian Letters](http://forum.rpg.net/showthread.php?590734-Lovecraftian-Letters-HPL-Fridge-Magnet-Set-Preorder-Special">Lovecraftian Letters)
+- [Lovecraftian Letters](http://forum.rpg.net/showthread.php?590734-Lovecraftian-Letters-HPL-Fridge-Magnet-Set-Preorder-Special")
 - http://getemoji.com
 - http://emojipedia.org">emojipedia.org</a></li>
 - http://nshipster.com/uiactivityviewcontroller/
