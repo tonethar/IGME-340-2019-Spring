@@ -80,6 +80,9 @@
    - Navigation bars
      - adding one to a VC (using Storyboard)
      - adding buttons (using Storyboard)
+   - Other examples of delegation and protocols:
+     - `CLLocation`
+     - 'UIPickerView`
      
 ### Week 6
  - Topics needed for Project 1 - Final Deliverable:
