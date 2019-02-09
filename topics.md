@@ -82,7 +82,7 @@
      - adding buttons to a Nav Bar (using Storyboard)
    - Other examples of delegation and protocols:
      - `CLLocation`
-     - 'UIPickerView`
+     - `UIPickerView`
      
 ### Week 6
  - Topics needed for Project 1 - Final Deliverable:
