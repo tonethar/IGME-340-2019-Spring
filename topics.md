@@ -56,12 +56,13 @@
  - Project 1
    - Assign [Project 1](./assignments/project-1.md)
    - Form Groups
-   - Topics needed for Project Deliverable #2:
+   - Topics needed for Project 1 - Deliverable #1:
      - Demo importing icons
      - Demo setting up a splash screen
      - Everything you need for completing checkpoints #1 & #2 is posted!
+     
  ### Week 5
- - Topics needed for Project Deliverable #2:
+ - Topics needed for Project 1 - Deliverable #2:
    - Storyboard
      - autolayout
      - autoresizing
@@ -81,7 +82,7 @@
      - adding buttons (using Storyboard)
      
 ### Week 6
- - Topics needed for Final Project Deliverable:
+ - Topics needed for Project 1 - Final Deliverable:
    - Save a snapshot of view
    - Share a snapshot of view
    - Singletons
@@ -91,6 +92,7 @@
  - Topics needed for Final Project Extras: 
    - Dependency Injection
    - `UIAppearance`
+   - `Kinetic Realism` & `UIInterpolatingMotionEffect`
    
  
 
