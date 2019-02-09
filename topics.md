@@ -43,6 +43,7 @@
  - Links:
    - [Swift Language Guide](https://docs.swift.org/swift-book/)
    - [iOS HIG](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
+   
  ### Week 4
  - Review *Monster HW*
    - add `didSet` property observer
@@ -55,22 +56,41 @@
  - Project 1
    - Assign [Project 1](./assignments/project-1.md)
    - Form Groups
-   - Demo importing icons
-   - Demo setting up a splash screen
-   - Everything you need for completing checkpoints #1 & #2 is posted!
+   - Topics needed for Project Deliverable #2:
+     - Demo importing icons
+     - Demo setting up a splash screen
+     - Everything you need for completing checkpoints #1 & #2 is posted!
  ### Week 5
- - Storyboard
-   - autolayout
-   - autoresizing
- - Tables
-   - delegate protocols
-   - datasource prototcols
- - ViewControllers
-   - segues
- - Navigation vars
-   - adding buttons
- - Singleton ICE
+ - Topics needed for Project Deliverable #2:
+   - Storyboard
+     - autolayout
+     - autoresizing
+   - Tables
+     - datasource prototcols
+       - how many sections?
+       - how many rows?
+     - delegate protocols
+       - row was tapped
+   - ViewControllers
+     - creating them in Storyboard
+     - segues
+     - sending data to a "child" view controller
+     - sending data to a "parent" view controller
+   - Navigation bars
+     - adding one to a VC (using Storyboard)
+     - adding buttons (using Storyboard)
+     
+### Week 6
+ - Topics needed for Final Project Deliverable:
+   - Save a snapshot of view
+   - Share a snapshot of view
+   - Singletons
    
+   
+### Week 7
+ - Topics needed for Final Project Extras: 
+   - Dependency Injection
+   - `UIAppearance`
    
  
 
