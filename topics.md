@@ -75,11 +75,11 @@
    - ViewControllers
      - creating them in Storyboard
      - segues
-     - sending data to a "child" view controller
-     - sending data to a "parent" view controller
+     - sending data to a "child" view controller - `prepare(for segue: UIStoryboardSegue, sender: Any?) `
+     - sending data to a "parent" view controller - `@IBAction func unwindToMain(segue:UIStoryboardSegue)`
    - Navigation bars
      - adding one to a VC (using Storyboard)
-     - adding buttons (using Storyboard)
+     - adding buttons to a Nav Bar (using Storyboard)
    - Other examples of delegation and protocols:
      - `CLLocation`
      - 'UIPickerView`
