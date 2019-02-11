@@ -83,6 +83,7 @@
 
 - Doing all of the above gets an 85% - to get a higher grade you need to go "above and beyond". Be sure to document your extras in a seperate file or in the comments field of the dropbox. If you don't, you will not get credit for them. Here are some ideas:
   - Add Word to existing word set/Make new word set
+  - Use the [RiTaJS](https://rednoise.org/rita/) Computational Literature API to add random words with certain characterisitcs: rhyming, alliteration, synonyms - etc... See the JSTester Demo in mycourses for help on how to get started with this API
   - Delete Words, and animate it - look at *Hello RIT-2*
   - Rotate words - see *GestureRecognizer Demo* in mycourses
   - Custom Fonts - use a `UIPickerView` - see this tutorial - http://codewithchris.com/uipickerview-example/
