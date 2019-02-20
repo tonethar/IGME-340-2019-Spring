@@ -146,7 +146,16 @@ DispatchQueue.main.asyncAfter(deadline: fireTime){
 ### Hint #4
 *Sick of everything in your app being gray?*
 
-`UIAppearance` is a protocol on many UIKit classes that allows you to change the styling of UI elements for either your entire app, or just for for specific elements. See **Using UIAppearance** PDF in mycourses 
+`UIAppearance` is a protocol on many UIKit classes that allows you to change the styling of UI elements for either your entire app, or just for for specific elements. Here is an easy quick start:
+
+- Add the following to the `application - didFinishLaunchingWithOptions()` method in **AppDelegate.swift**:
+
+```swift
+UINavigationBar.appearance().backgroundColor = UIColor.green
+UIToolbar.appearance().backgroundColor = UIColor.green
+```
+
+- See this tutorial for an introduction: https://www.raywenderlich.com/1625-uiappearance-tutorial-getting-started
 
 
 ### Hint #5
