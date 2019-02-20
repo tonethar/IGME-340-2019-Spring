@@ -151,10 +151,14 @@ DispatchQueue.main.asyncAfter(deadline: fireTime){
 - Add the following to the `application - didFinishLaunchingWithOptions()` method in **AppDelegate.swift**:
 
 ```swift
+// be sure to pick better colors!
 UINavigationBar.appearance().backgroundColor = UIColor.green
-UIToolbar.appearance().backgroundColor = UIColor.green
+let barTintColor = UIColor(red: 20/255, green: 160/255, blue: 160/255, alpha: 1)
+UIToolbar.appearance().barTintColor = barTintColor
+UIBarButtonItem.appearance().tintColor = UIColor.purple
 ```
 
+- See the "Using UIAppearance" PDF in mycourses
 - See this tutorial for an introduction: https://www.raywenderlich.com/1625-uiappearance-tutorial-getting-started
 
 
