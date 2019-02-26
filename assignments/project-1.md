@@ -173,6 +173,8 @@ See the **UIInterpolatingMotionEffect Notes** PDF in mycourses to see how to add
 
 ### Hint #7
 
+- for dependency injection, create the `ViewController` progrmmatically, in `AppDelegate.swift`
+
 ```swift
  self.window = UIWindow(frame: UIScreen.main.bounds)
         
