@@ -171,6 +171,26 @@ See the **UIInterpolatingMotionEffect Notes** PDF in mycourses to see how to add
 - When doing the final testing your app, be sure to delete it off of the simulator and your iOS device, reinstall it, and be sure that it works in the "first run" state.
 - This is necessary to do so that you can be 100% sure that your `UserDefaults` code is properly written
 
+### Hint #7
+
+```swift
+ self.window = UIWindow(frame: UIScreen.main.bounds)
+        
+ // In project directory storyboard looks like Main.storyboard,
+ // you should use only part before ".storyboard" as it's name,
+ // so in this example name is "Main".
+ let storyboard = UIStoryboard.init(name: "Main", bundle: nil)
+        
+// controller identifier sets up in storyboard utilities
+// panel (on the right), it called Storyboard ID
+let viewController = storyboard.instantiateViewController(withIdentifier: "viewController") as! ViewController
+viewController.wordListMgr = WordListManager.shared
+viewController.selectedCategory = WordListManager.shared.currentCategory
+        
+self.window?.rootViewController = viewController
+self.window?.makeKeyAndVisible()
+```
+
 <hr><hr>
 
 <a id="screenshots"></a>
