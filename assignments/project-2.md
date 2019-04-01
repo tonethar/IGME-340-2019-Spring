@@ -8,7 +8,10 @@ Create a useful or entertaining iOS app or game in teams of 1 to 2 students. The
 - **Utilities:** S.P.A. - Shotgun Pattern Analyzer (used OpenCV), Veg Nut (recipe Finder), Diablo 3 Skill Calculator, MyIndia, Nihongo Study (Japanese Language App), Garbage Plate Finder (in App Store), Fitness App, Split the Bill
 - **Media Apps:** Audio Streamer, Manga Reader
 - **RIT Themed:** iRIT/RIT Now (in App Store), RIT Student Government, RIT Virtual Tour, RIT Taxi, Wallace Library App, RIT Room Booker, RIT Bus, TigerSafe (in App Store, never a student of mine)
-- **Games!** You can use either UIKit (which was covered in this class), or something like the [SpriteKit API](https://developer.apple.com/documentation/spritekit)
+- **Games!**
+  - It could be a "companion app" to a board or card game
+  - It could be a digital card game, board game
+  - It could be something more "spritey"  - you can use either UIKit (which was covered in this class), or something like the [SpriteKit API](https://developer.apple.com/documentation/spritekit)
 - ***Apps that would have to run on a jailbroken device ARE NOT ALLOWED***
 - **Would the theme of the app be OK for the App store?** is the question your app should answer in the affirmative.
 
