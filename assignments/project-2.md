@@ -18,6 +18,8 @@ Create a useful or entertaining iOS app or game in teams of 1 to 2 students. The
 
 <hr> 
 
+<a id="milestones"></a>
+  
 ## II. Milestones
 
 ### 1 - Create an Application Definition Statement
