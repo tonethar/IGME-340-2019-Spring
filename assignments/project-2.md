@@ -1,7 +1,12 @@
 # Project 2 - iOS App of Awesomeness
 
 ## I. Overview
-Create a useful or entertaining iOS app or game in teams of 1 to 2 students. The app theme and capabilities should be "App Store ready" (or nearly so). The target hardware can be iPhone or iPad (or Universal). Previous submissions have included:
+- Create a useful or entertaining iOS app or game in teams of 1 to 2 students. The app theme and capabilities should be "App Store ready" (or nearly so). The target hardware can be iPhone or iPad (or Universal).
+- See the mycourses discussion thread and dropboxes for deliverable due dates
+
+### I-A. Project Ideas
+
+Previous submissions have included:
 
 - **Games!**
   - It could be a "companion app" to a board or card game - ex. Diablo 3 Skill Calculator
