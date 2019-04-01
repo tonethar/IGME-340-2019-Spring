@@ -112,4 +112,4 @@ Final Version Due Finals Week during the scheduled final exam time (Tuesday 5/16
 - We've just scratched the surface of iOS this semester - you are encouraged to explore other frameworks and capabilities of iOS.
 - Look over this [list of iOS frameworks](https://developer.apple.com/documentation/)
 - http://www.raywenderlich.com has many written tutorials and a few video tutorials
-- https://www.lynda.com also has a lot of courses - free to RIT students
+- https://www.lynda.com also has some iOS related courses - free to RIT students
