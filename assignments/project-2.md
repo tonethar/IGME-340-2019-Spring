@@ -3,15 +3,16 @@
 ## I. Overview
 Create a useful or entertaining iOS app or game in teams of 1 to 2 students. The app theme and capabilities should be "App Store ready" (or nearly so). The target hardware can be iPhone or iPad (or Universal). Previous submissions have included:
 
-- **Apps that utilize web services to display data:** Traffic App, Woot Ware, Starting Five (Dribble.com client), USGS Earthquake Mapper, iGas-Station, Philly Arts Today, Grubulate (recipe finder), Aimless Reader (random articles), Local News (in App Store)
-- **Entertainment:** BackAppYa (comeback generator), Beer of the Day, Lionfish Hunter, Sudoku, Star Trader, Rate Your Boys, They all look the same to me, Jetpack Joyride Clone
-- **Utilities:** S.P.A. - Shotgun Pattern Analyzer (used OpenCV), Veg Nut (recipe Finder), Diablo 3 Skill Calculator, MyIndia, Nihongo Study (Japanese Language App), Garbage Plate Finder (in App Store), Fitness App, Split the Bill
-- **Media Apps:** Audio Streamer, Manga Reader
-- **RIT Themed:** iRIT/RIT Now (in App Store), RIT Student Government, RIT Virtual Tour, RIT Taxi, Wallace Library App, RIT Room Booker, RIT Bus, TigerSafe (in App Store, never a student of mine)
 - **Games!**
-  - It could be a "companion app" to a board or card game
+  - It could be a "companion app" to a board or card game - ex. Diablo 3 Skill Calculator
   - It could be a digital card game, board game
   - It could be something more "spritey"  - you can use either UIKit (which was covered in this class), or something like the [SpriteKit API](https://developer.apple.com/documentation/spritekit)
+- **Apps that utilize web services to display data:** Traffic App, Woot Ware, Starting Five (Dribble.com client), USGS Earthquake Mapper, iGas-Station, Philly Arts Today, Grubulate (recipe finder), Aimless Reader (random articles), Local News (in App Store)
+- **Entertainment:** BackAppYa (comeback generator), Beer of the Day, Lionfish Hunter, Sudoku, Star Trader, Rate Your Boys, They all look the same to me, Jetpack Joyride Clone
+- **Utilities:** S.P.A. - Shotgun Pattern Analyzer (used OpenCV), Veg Nut (recipe finder), MyIndia, Nihongo Study (Japanese Language App), Garbage Plate Finder (in App Store), Fitness App, Split the Bill
+- **Media Apps:** Audio Streamer, Manga Reader
+- **RIT Themed:** iRIT/RIT Now (in App Store), RIT Student Government, RIT Virtual Tour, RIT Taxi, Wallace Library App, RIT Room Booker, RIT Bus, TigerSafe (in App Store, never a student of mine)
+
 - ***Apps that would have to run on a jailbroken device ARE NOT ALLOWED***
 - **Would the theme of the app be OK for the App store?** is the question your app should answer in the affirmative.
 
@@ -46,14 +47,16 @@ Getting a prototype up an running as fast as possible is critical.
 - A polished User Experience that respects the iOS Mobile HIG, as well as iOS 7/8/9/10 Design Principles:
   - Clarity - it should be clear what the app does, and people should be able to use it without instruction.
   - Deference - content is front and center - the UI should fade into the background.
-  - Depth - it should be a vibrant and life-like experience, and people should not get "lost" or be confused about what state the app is in.
+  - Depth - it should be a vibrant and life-like experience, and people should not get "lost" or be confused about what state the app is in
+- Media - icons & splashscreen required
+- Saves state when user force-quits by utilizing *UserDefaults* or similar
 - Uses Frameworks and/or methods of those frameworks that go well beyond what we've done in class this semester.
 - Meets course coding standards (see below)
 - Install on iOS hardware and bring to class on due date
 
 
 #### 4B - Coding Standards
-- Design Patterns: MVC, Singletons, Delegation, Notifications
+- Design Patterns: MVC, Singletons, Delegation, Notifications, Dependency Injection
 - Separation of Concern - You should have multiple classes, with each class having well-defined functionality accessed through a public interface.
 - D.R.Y. - Don't Repeat Yourself. Repeated blocks of nearly identical code should be factored out and placed in a separate method.
 - No "magic numbers" (unnamed numerical constants) - declare constants or enums or structs instead.
