@@ -12,6 +12,8 @@ Create a useful or entertaining iOS app or game in teams of 1 to 2 students. The
 - ***Apps that would have to run on a jailbroken device ARE NOT ALLOWED***
 - **Would the theme of the app be OK for the App store?** is the question your app should answer in the affirmative.
 
+<hr> 
+
 ## II. Milestones
 
 ### 1 - Create an Application Definition Statement
@@ -67,6 +69,7 @@ Getting a prototype up an running as fast as possible is critical.
 - Grade yourself (0-100) and justify it. Put this in a text file or Word document or PDF and submit it with your project.
 -10% if not done
 
+<hr> 
 
 ## III. Grade Rubric
 
@@ -89,6 +92,8 @@ Working Prototype #2 due start of class Tuesday 5/9 (week 15) - post to mycourse
 Final Version Due Finals Week during the scheduled final exam time (Tuesday 5/16 @ 10:15AM) - post to mycourses dropbox with your documentation - install on iOS hardware and bring to class. Late submissions will not be accepted.
 ** If you borrowed an iOS device from IGM, you must return it at the time of our final meeting - and don't forget the cable. **
 -->
+
+<hr> 
 
 ## IV. Resources
 - We've just scratched the surface of iOS this semester - you are encouraged to explore other frameworks and capabilities of iOS.
